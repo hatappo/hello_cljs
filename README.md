@@ -10,3 +10,5 @@ https://github.com/clojure/clojurescript/wiki/Quick-Start の内容。
 実行
 
     java -cp 'cljs.jar:lib/*:src' clojure.main build.clj
+
+ブラウザで`index.html`を開くとコンソールに出力されている。
